@@ -1,39 +1,3 @@
-﻿![](Aspose.Words.80dfe42d-7026-4f74-92ca-9267ad42256a.001.png)
-
-<a name="_hlk134830189"></a>**MARMARA ÜNİVERSİTESİ TEKNOLOJİ FAKÜLTESİ**
-
-**BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ**
-
-**BİLGİSAYAR AĞLARINA GİRİŞ**
-
-**2022-2023 BAHAR YY. DÖNEM PROJESİ RAPORU**
-
-**HAZIRLAYANLAR:**
-
-**Eda Nur MUTLU - 170421843**
-
-**Nuri Can BİRDEMİR - 171421013**
-
-**DANIŞMAN:**
-
-**Dr. Öğr. Üyesi Eyüp Emre ÜLKÜ**
-
-**Araş. Gör. Büşra BÜYÜKTANIR**
-
-**Araş. Gör. Merve Hazan İŞCAN**
-
-
-
-
-
-
-
-
-
-
-
-Haziran 2023
-
 **Belediye Binası Ağ Tasarımı**
 
 1. **Proje Tanımı ve Amacı**
