@@ -47,7 +47,8 @@ Belediye binasının mevcut iş ihtiyacını karşılayan ve geleceğe yönelik 
 1. Multilayer Switch ve Routerlara IP Routing (Yönlendirme) Yapılması
 1. Ağ İletişimini Test Etme ve Doğrulama. 
 
-![](Aspose.Words.80dfe42d-7026-4f74-92ca-9267ad42256a.002.png)**Önizleme**
+![](Aspose.Words.80dfe42d-7026-4f74-92ca-9267ad42256a.002.png)
+**Önizleme**
 
 
 
